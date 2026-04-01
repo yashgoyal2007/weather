@@ -23,7 +23,14 @@ Because this project purely uses Vanilla HTML/CSS/JS, running it is incredibly s
 1. Clone the repository: `git clone https://github.com/mrsameer12082006-spec/-Async-Weather-Tracker.git`
 2. Open `index.html` in your favorite web browser! No local server or build pipeline required.
 
-## 📋 Assignment Requirements Fulfilled
+## � Deploy to Vercel
+To deploy this static site to Vercel:
+1. Install Vercel CLI globally: `npm install -g vercel`
+2. Login to your Vercel account: `vercel login`
+3. In the project directory, run: `vercel`
+4. Follow the prompts to deploy your site.
+
+## �📋 Assignment Requirements Fulfilled
 - ✅ **No UI libraries**
 - ✅ **Weather Search Interface**
 - ✅ **Asynchronous API handling (`fetch` & `async/await`)**
